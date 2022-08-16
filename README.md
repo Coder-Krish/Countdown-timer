@@ -23,3 +23,7 @@ const s = Math.floor(diff / secondsDivider  % 60);
 > Need to fit this formula in a function that runs on a interval 
 
 ## Happy Learning 😊
+
+### Demo
+
+[krishna-stopwatch](https://krishna-stopwatch.netlify.app/)
